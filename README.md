@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Joi 👋
 
-<!--
-**joicodes/joicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and teach AI-powered systems, with a focus on making complex technologies accessible and usable.
 
-Here are some ideas to get you started:
+My work sits at the intersection of software engineering, generative AI, and education. I develop applications, experiments, and learning experiences that help others understand how these systems work in practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile highlights my work in AI-assisted development, system design, and technical education.
+
+
+#### 💡 Current Focus
+
+* Building AI-assisted tools and small-scale agent workflows  
+* Teaching lessons and activities on generative AI and systems thinking  
+* Exploring human-centered design in AI systems
