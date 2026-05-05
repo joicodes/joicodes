@@ -11,3 +11,13 @@ My work sits at the intersection of software engineering, generative AI, and edu
 * Building AI-assisted tools and agent workflows  
 * Designing lessons and interactive activities around generative AI  
 * Exploring human-centered design in AI systems
+
+
+<p align="center">
+  <a href="https://github.com/joicodes/ai-system-workflows">
+    <img src="https://img.shields.io/badge/AI_System_Workflows-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/joicodes/how-ai-systems-work">
+    <img src="https://img.shields.io/badge/How_AI_Systems_Work-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
