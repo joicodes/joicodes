@@ -1,14 +1,17 @@
-## Hi, I'm Joi 🙋🏽‍♀️
+<p align="left">
+  <img src="https://img.shields.io/badge/🚧-Profile_Rebuilding_in_Progress-ffcc00?style=for-the-badge" />
+</p>
 
-I build and teach AI-powered systems, with a focus on making complex technologies accessible and usable.
-
-My work sits at the intersection of software engineering, generative AI, and education. I develop applications, experiments, and learning experiences that help others understand how these systems work in practice.
-
-This profile highlights my work in AI-assisted development, system design, and technical education.
+## Hi, I'm Joi 👋
 
 
-#### 💡 Current Focus
 
-* Building AI-assisted tools and small-scale agent workflows  
-* Teaching lessons and activities on generative AI and systems thinking  
-* Exploring human-centered design in AI systems
+I build and teach AI-powered systems, focusing on making complex technologies accessible and usable.
+
+My work sits at the intersection of software engineering, generative AI, and education. I design and prototype AI-driven applications, experiments, and learning experiences that help others understand how these systems work in practice.
+
+### Current Focus
+
+- Building AI-assisted tools and agent workflows  
+- Designing lessons and interactive activities around generative AI  
+- Exploring human-centered design in AI systems
