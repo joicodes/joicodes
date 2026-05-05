@@ -8,6 +8,6 @@ My work sits at the intersection of software engineering, generative AI, and edu
 
 **Current Focus:**
 
-⬜️  Building AI-assisted tools and agent workflows  
-⬜️  Designing lessons and interactive activities around generative AI  
-⬜️  Exploring human-centered design in AI systems
+* Building AI-assisted tools and agent workflows  
+* Designing lessons and interactive activities around generative AI  
+* Exploring human-centered design in AI systems
