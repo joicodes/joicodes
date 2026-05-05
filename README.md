@@ -4,7 +4,7 @@
 
 
 
-I build and teach AI-powered systems, focusing on making complex technologies accessible and usable.
+I **build** and **teach** AI-powered systems**, focusing on making complex technologies accessible and usable.
 
 My work sits at the intersection of software engineering, generative AI, and education. I design and prototype AI-driven systems and learning experiences that make these technologies understandable and usable in practice.
 
