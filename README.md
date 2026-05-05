@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/🚧-Profile_Rebuilding_in_Progress-ffcc00?style=for-the-badge" />
-</p>
-
 ## Hi, I'm Joi 👋
 
 
