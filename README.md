@@ -6,7 +6,7 @@
 
 I build and teach AI-powered systems, focusing on making complex technologies accessible and usable.
 
-My work sits at the intersection of software engineering, generative AI, and education. I design and prototype AI-driven applications, experiments, and learning experiences that help others understand how these systems work in practice.
+My work sits at the intersection of software engineering, generative AI, and education. I design and prototype AI-driven systems and learning experiences that make these technologies understandable and usable in practice.
 
 ### Current Focus
 
