@@ -12,12 +12,14 @@ My work sits at the intersection of software engineering, generative AI, and edu
 * Designing lessons and interactive activities around generative AI  
 * Exploring human-centered design in AI systems
 
+---
 
-<p align="center">
-  <a href="https://github.com/joicodes/ai-system-workflows">
-    <img src="https://img.shields.io/badge/AI_System_Workflows-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/joicodes/how-ai-systems-work">
-    <img src="https://img.shields.io/badge/How_AI_Systems_Work-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+📌 **Pinned Repositories:**
+
+| Repository | Description |
+|---|---|
+| [**ai-system-workflows**](https://github.com/joicodes/ai-system-workflows) | Building and testing AI workflows and multi-step systems. |
+| [**how-ai-systems-work**](https://github.com/joicodes/how-ai-systems-work) | Breaking down how AI systems work in practice. |
+| [**ai-learning-experiences**](https://github.com/joicodes/ai-learning-experiences) | Lessons and activities designed to help people understand AI. |
+| [**ai-demo-apps**](https://github.com/joicodes/ai-demo-apps) | Small AI tools and demos for exploring real use cases. |
+| [**ai-experiments**](https://github.com/joicodes/ai-experiments) | Ongoing experiments with AI systems, prompts, and workflows. |
