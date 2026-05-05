@@ -1,4 +1,4 @@
-## Hi, I'm Joi 👋
+## Hi, I'm Joi 🙋🏽‍♀️
 
 I build and teach AI-powered systems, with a focus on making complex technologies accessible and usable.
 
